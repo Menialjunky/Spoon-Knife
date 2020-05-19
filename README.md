@@ -1,6 +1,27 @@
 # heading
 
 **bold**
+*italic*
+~~strike~~
+**bold and _italic_ text**
+***all bold Italic***
+
+[link name] (https://www.example.com)
+
+-first
+-second
+
+1.first
+2.second
+
+First line
+-nested
+ -nested
+ 
+ [] liste
+ []list
+ [x]check
+
 
 ### Well hello there!
 
