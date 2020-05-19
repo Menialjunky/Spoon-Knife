@@ -18,8 +18,8 @@ First line
 - nested
  - nested
  
- [] liste
- [] list
+ [ ] liste
+ [ ] list
  [x] check
 
 
