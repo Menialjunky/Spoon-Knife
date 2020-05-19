@@ -14,9 +14,9 @@
 1. first
 2. second
 
-First line
-- nested
- - nested
+1. First line
+   - nested
+     - nested
  
  [ ] liste
  [ ] list
