@@ -8,19 +8,19 @@
 
 [link name] (https://www.example.com)
 
--first
--second
+- first
+- second
 
-1.first
-2.second
+1. first
+2. second
 
 First line
--nested
- -nested
+- nested
+ - nested
  
  [] liste
- []list
- [x]check
+ [] list
+ [x] check
 
 
 ### Well hello there!
